@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Renewable-Energy-Advisor/static/css/main.210bda3b.css",
-    "main.js": "/Renewable-Energy-Advisor/static/js/main.6b8d9059.js",
-    "index.html": "/Renewable-Energy-Advisor/index.html",
-    "main.210bda3b.css.map": "/Renewable-Energy-Advisor/static/css/main.210bda3b.css.map",
-    "main.6b8d9059.js.map": "/Renewable-Energy-Advisor/static/js/main.6b8d9059.js.map"
+    "main.css": "/GridFIS-RenewableEnergyAdvisor/static/css/main.210bda3b.css",
+    "main.js": "/GridFIS-RenewableEnergyAdvisor/static/js/main.873752b5.js",
+    "index.html": "/GridFIS-RenewableEnergyAdvisor/index.html",
+    "main.210bda3b.css.map": "/GridFIS-RenewableEnergyAdvisor/static/css/main.210bda3b.css.map",
+    "main.873752b5.js.map": "/GridFIS-RenewableEnergyAdvisor/static/js/main.873752b5.js.map"
   },
   "entrypoints": [
     "static/css/main.210bda3b.css",
-    "static/js/main.6b8d9059.js"
+    "static/js/main.873752b5.js"
   ]
 }
